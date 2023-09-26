@@ -21,7 +21,7 @@ Purpose: Practice mathematical calculations and conditional statements for pract
 
 Getting Started
 Clone the project repository to your local machine:
-git clone https://github.com/yourusername/Calculator-Project.git
+git clone https://github.com/pvaldessancy/Calculator-Project.git
 
 Navigate to the desired example folder within the repository.
 Run the Python script for the chosen example and follow the program's instructions.
